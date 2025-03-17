@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Música_\M-sica_\bin\Debug\net9.0\M-sica_.exe
+C:\Users\user\Documents\Música_\M-sica_\bin\Debug\net9.0\M-sica_.deps.json
+C:\Users\user\Documents\Música_\M-sica_\bin\Debug\net9.0\M-sica_.runtimeconfig.json
+C:\Users\user\Documents\Música_\M-sica_\bin\Debug\net9.0\M-sica_.dll
+C:\Users\user\Documents\Música_\M-sica_\bin\Debug\net9.0\M-sica_.pdb
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.AssemblyInfo.cs
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.sourcelink.json
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.dll
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\refint\M-sica_.dll
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.pdb
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\M-sica_.genruntimeconfig.cache
+C:\Users\user\Documents\Música_\M-sica_\obj\Debug\net9.0\ref\M-sica_.dll

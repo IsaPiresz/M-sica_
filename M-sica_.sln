@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M-sica_", "M-sica_.csproj", "{FE051F65-F8EB-4F8D-8062-143B0C9D60A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE051F65-F8EB-4F8D-8062-143B0C9D60A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE051F65-F8EB-4F8D-8062-143B0C9D60A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE051F65-F8EB-4F8D-8062-143B0C9D60A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE051F65-F8EB-4F8D-8062-143B0C9D60A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88FF9D16-B021-4520-9D89-672639B4750A}
+	EndGlobalSection
+EndGlobal
